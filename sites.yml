@@ -1810,6 +1810,15 @@ sites:
       fluorescence microscopy, particularly super-resolution microscopy.
     maintainers:
       - "[The Henriques Team, UCL, UK](https://www.ucl.ac.uk/lmcb/users/ricardo-henriques)"
+  
+  - name: "NanoSIMS Stabilizer"
+    id: "NanoSIMS Stabilizer"
+    url: "https://sites.imagej.net/NanoSIMS-Stabilizer/"
+    description: >-
+      [NanoSIMS Stabilizer](https://www.haibojianglab.com/nanosims-stabilizer)
+      is an ImageJ plugin to register multi-frame NanoSIMS image non-linear distortion and drift with optical flow.
+    maintainers:
+      - "[The Jiang Haibo Team, HKU, HK](https://www.haibojianglab.com/)"
 
   - name: "NEUBIAS"
     id: "Neubias"
